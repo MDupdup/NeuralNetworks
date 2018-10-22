@@ -1,3 +1,5 @@
+# WOW
+
 import numpy as np
 import neural_network as neurn
 
@@ -26,8 +28,6 @@ for i in range(100000):
     nn.train_AI(X, y)
 
 nn.predict(xPredicted)
-
-
 
 
 
